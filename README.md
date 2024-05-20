@@ -1,5 +1,6 @@
 # Library-Management-System
 A web-based complete backend oriented application utilizing springboot, spring web, spring Data JPA, Hibernate and Mysql to manage library operations efficiently by facilitating streamlined management of library tasks like Cataloging, Borrowing, and Returning books.
+
  -> Approach : MVC(Model view Control) Architecture.
  -> Tech-stack : Spring web, springboot, JPA & Hibernate, MySQL, PostMan for API testing, InteliJIdea (IDE).
  -> Features : developed main viable product(MVP) features
